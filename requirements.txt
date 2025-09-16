@@ -1,0 +1,7 @@
+Flask
+Flask-Cors
+Gunicorn
+tensorflow       # Or pytorch==1.11.0 for PyTorch
+opencv-python  # If you're using OpenCV
+numpy
+matplotlib
